@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu"
+        android:enabled="true"
+        android:icon="@drawable/menu_icon"
+        android:title="Меню" />
+    <item
+        android:id="@+id/account"
+        android:enabled="true"
+        android:icon="@drawable/account_icon"
+        android:title="Аккаунт" />
+    <item
+        android:id="@+id/support"
+        android:enabled="true"
+        android:icon="@drawable/support_icon"
+        android:title="Поддержка" />
+
+</menu>

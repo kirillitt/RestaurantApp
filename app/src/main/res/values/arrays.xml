@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="categories_of_completed">
+        <item>Заказ формируется</item>
+        <item>Заказ готовится</item>
+        <item>Заказ доставляется</item>
+        <item>Заказ доставлен</item>
+    </array>
+
+</resources>
